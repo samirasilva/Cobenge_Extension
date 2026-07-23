@@ -1,8 +1,8 @@
-# [ANONYMIZED] PROJECT
+# PROGRAMENINAS PROJECT
 
 **Paper:** "Six Years Later: Assessing the Impact of a Pandemic-Era Online University Outreach Project for Women in Computing"
 
-**Submitted to**: Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software (WASHES) 2026
+**Submitted to**: Cobenge 2026.
 
 
 This repository documents the Python programming minicourses conducted in 2020 as part of an outreach initiative to encourage women to pursue careers in computing. It includes course materials, surveys conducted immediately after the minicourses, a six-year follow-up survey, and results.
